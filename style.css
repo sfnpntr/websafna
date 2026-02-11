@@ -1,7 +1,7 @@
 body{
-    background: #ffc0cb;
+    background: #faf3eb;
     color:#333;
-    width:100%;
+    width:100%;ffc0cb
     font-family: sans-serif;
     margin:0 auto;
 }
@@ -11,6 +11,7 @@ body{
     margin:auto;
     height:120px;
     line-height:120px;
-    background: #faf3eb;
+    background: #ffc0cb;
     color:#fff;
 }
+
