@@ -1,4 +1,16 @@
-body
-{
- background-color:yellow;
+body{
+    background: #ffc0cb;
+    color:#333;
+    width:100%;
+    font-family: sans-serif;
+    margin:0 auto;
+}
+
+.header {
+    width:90%;
+    margin:auto;
+    height:120px;
+    line-height:120px;
+    background: #faf3eb;
+    color:#fff;
 }
